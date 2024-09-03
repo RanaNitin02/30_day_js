@@ -21,3 +21,4 @@ incrementCount1(5)();
 // ++++++++++ Activity 2 ++++++++++
 
 console.log("Hello world");
+"kida"
